@@ -1,6 +1,6 @@
 ### NOTE: This repository is here so you can submit Issues and Feature requests, feel free to join our discord server as well.
 
-<h2 align="center"><img src="https://raw.githubusercontent.com/10clouds/10Minions/main/resources/resources/ext-icon.png" height="64"><br>10Minions</h2>
+<h2 align="center" style="text-decoration:none"><img src="https://raw.githubusercontent.com/10clouds/10Minions/main/resources/resources/ext-icon.png" height="64"><br>10Minions</h2>
 <p align="center"><strong>Your Army of GPT-4 Powered Coding Comrades </strong></p>
 <p align="center"><strong>(Boost Your Productivity)</strong></p>
 
