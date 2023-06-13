@@ -6,4 +6,4 @@ Unleash the power of autonomous coding with 10Minions, a cutting-edge coding ass
 
 Experience increased productivity, better code quality, and seamless integration – without compromising control or privacy.
 
-[10Minions Visual Studio Code Extension]([https://link-url-here.org](https://marketplace.visualstudio.com/items?itemName=10Clouds.10minions))
+[10Minions Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=10Clouds.10minions)
