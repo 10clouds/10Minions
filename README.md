@@ -64,17 +64,19 @@ Our users love 10Minions! See what they have to say:
 
 Showcase the 10Minions plugin in action with videos demonstrating its features/functionality.
 
-
-https://github.com/10clouds/10Minions/assets/135703473/b45f9a7d-e424-4775-b45d-bdd217d244eb
-
-
-https://github.com/10clouds/10Minions/assets/135703473/123ec9ef-09bf-49ba-9ab6-3865ea39a501
+![1](https://github.com/10clouds/10Minions/assets/135703473/e01da07b-aea3-4f54-a102-b20d9f78bb5c)
 
 
-https://github.com/10clouds/10Minions/assets/135703473/7ccfa338-1201-4188-b4e6-9c90a61e6eb9
+
+![2](https://github.com/10clouds/10Minions/assets/135703473/62140059-8106-40dd-86c5-efceebc4b448)
 
 
-https://github.com/10clouds/10Minions/assets/135703473/efef9d4b-d1af-4fb8-abd5-fc2b8b8496bb
+
+![3](https://github.com/10clouds/10Minions/assets/135703473/05a5c090-dea7-4d64-a160-155359208b15)
+
+
+
+![4](https://github.com/10clouds/10Minions/assets/135703473/e59a3bcc-c15a-45ef-b4d8-2e0f6c70af97)
 
 
 ## 💼 Resources and Links
