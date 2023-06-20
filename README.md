@@ -9,6 +9,10 @@ Experience increased productivity, better code quality, and seamless integration
 Code smarter, not harder!
 
 
+<p align="center"><img src="https://github.com/10clouds/10Minions/assets/135703473/bf840ad9-6c19-4fe5-a574-4696a3a720c0"></p>
+
+
+
 ## 💡 Key Features
 
 10Minions empowers you to:
@@ -127,4 +131,9 @@ Initial release.
 ## 🚀 What's in plans
 
 * We are planning to add the ability to perform workspace wide operations
+
+
+
+
+
 
