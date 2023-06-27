@@ -28,6 +28,16 @@ Code smarter, not harder!
 10Minions works with any programming language and seamlessly integrates with Visual Studio Code, making it an invaluable tool for developers, data scientists, and other professionals working with code.
 
 
+## 🌐 Limitations
+
+10Minions, though powerful, has its boundaries. It's good to bear in mind that:
+
+- Minions work within the scope of a single file only. They may not comprehend or factor in the context of the rest of your code in other files.
+- Minions do have a limit on how big of a file or selection they can work on. Attempting to process a file or selection above this size limitation will produce an error.
+
+Note that we are working on solving both of those limitations.
+
+
 ## 🚀 Getting Started
 
 1. Install 10Minions from the Visual Studio Code marketplace
@@ -118,21 +128,6 @@ Our users love 10Minions! See what they have to say:
 - [10Minions in Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=10clouds.10Minions)
 - [Official Discord Channel](https://discord.gg/CGSX4Btamx)
 - [10Clouds webpage](https://10clouds.com)
-
-
-## 📝 Release Notes
-
-Keep an eye on this section for release updates and changelogs.
-
-### 1.0.0
-
-Initial release.
-
-## 🚀 What's in plans
-
-* We are planning to add the ability to perform workspace wide operations
-
-
 
 
 
