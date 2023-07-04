@@ -1,5 +1,5 @@
 <h2 align="center"><img src="https://raw.githubusercontent.com/10clouds/10Minions/main/resources/resources/ext-icon.png" height="64"><br>10Minions</h2>
-<p align="center"><strong>Alpha</strong></p>
+<p align="center"><strong>Alpha version</strong></p>
 
 <p align="center"><strong>Your Army of GPT-4 Powered Coding Buddies </strong></p>
 <p align="center"><strong>(Boost Your Productivity)</strong></p>
