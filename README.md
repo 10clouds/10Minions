@@ -1,4 +1,6 @@
 <h2 align="center"><img src="https://raw.githubusercontent.com/10clouds/10Minions/main/resources/resources/ext-icon.png" height="64"><br>10Minions</h2>
+<p align="center"><strong>Alpha</strong></p>
+
 <p align="center"><strong>Your Army of GPT-4 Powered Coding Buddies </strong></p>
 <p align="center"><strong>(Boost Your Productivity)</strong></p>
 
@@ -30,12 +32,14 @@ Code smarter, not harder!
 
 ## 🌐 Limitations
 
-10Minions, though powerful, has its boundaries. It's good to bear in mind that:
+Please note that 10Minions plugin is currently in its Alpha version and under continuous improvement hence has certain limitations. It's good to bear in mind that:
 
 - Minions work within the scope of a single file only. They may not comprehend or factor in the context of the rest of your code in other files.
 - Minions do have a limit on how big of a file or selection they can work on. Attempting to process a file or selection above this size limitation will produce an error.
 
-Note that we are working on solving both of those limitations.
+We are actively working on overcoming these restrictions for a more personalized experience.
+
+The users' feedback is key to its development and adjustments according to specific requirements. Feel free to share your thoughts, every review is a price and leads us to create a better product!
 
 
 ## 🚀 Getting Started
